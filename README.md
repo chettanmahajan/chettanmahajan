@@ -41,7 +41,7 @@
 <!--                  ABOUT ME                              -->
 <!-- ====================================================== -->
 
-## 🧑‍🚀 About Me
+## 🙋‍♂ About Me
 
 ```python
 class ChetanMahajan:
